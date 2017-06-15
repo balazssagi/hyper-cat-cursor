@@ -10,7 +10,7 @@ Add `hyper-cat-cursor` to the `plugins` array of your `.hyper.js` file.
 
 You may configure the extension by adding a `catCursor` object to the `.hyper.js` file's `config` object. Use the following options:
 
-```
+```javascript
 catCursor: {
   speed: 3000, // length of the sequence in milliseconds
   fontSize: 60, // font size of the cat in css pixels
