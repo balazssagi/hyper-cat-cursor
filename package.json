@@ -1,6 +1,6 @@
 {
   "name": "hyper-cat-cursor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hyper extension to replace your cursor with a cat emoji sequence. Why? Because I was bored.",
   "main": "index.js",
   "scripts": {
