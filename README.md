@@ -1,6 +1,6 @@
 An extension for [Hyper](https://github.com/zeit/hyper) to replace the cursor with a cat emoji sequence. Why? Because I was bored.
 
-![Animated gif of a command line interface with a cat emoji animation as cursor](1.gif)
+![Animated gif of a command line interface with a cat emoji animation as cursor](preview-1.gif)
 
 # Installation
 
@@ -11,13 +11,13 @@ Add `hyper-cat-cursor` to the `plugins` array of your `.hyper.js` file.
 You may configure the extension by adding a `catCursor` object to the `.hyper.js` file's `config` object. Use the following options:
 
 ```
-  catCursor: {
-    speed: 3000, // Lenth of the sequence in milliseconds
-    fontSize: 60, // font size of the cat in css pixels
-    cats: ['🐱', '🙀', '😾', '😿', '😹', '😼', '😺', '😻', '😸', '😽'] // custom cat sequence. only cats are accepted, of course
-  },
+catCursor: {
+  speed: 3000, // Lenth of the sequence in milliseconds
+  fontSize: 60, // font size of the cat in css pixels
+  cats: ['🐱', '🙀', '😾', '😿', '😹', '😼', '😺', '😻', '😸', '😽'] // custom cat sequence. only cats are accepted, of course
+},
 ```
 
 So you can easily create abominations like this:
 
-![Animated gif of a command line interface with a cat emoji animation as cursor](2.gif)
+![Animated gif of a command line interface with a cat emoji animation as cursor](preview-2.gif)
