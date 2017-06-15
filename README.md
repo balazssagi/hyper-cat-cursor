@@ -12,7 +12,7 @@ You may configure the extension by adding a `catCursor` object to the `.hyper.js
 
 ```
 catCursor: {
-  speed: 3000, // Lenth of the sequence in milliseconds
+  speed: 3000, // length of the sequence in milliseconds
   fontSize: 60, // font size of the cat in css pixels
   cats: ['🐱', '🙀', '😾', '😿', '😹', '😼', '😺', '😻', '😸', '😽'] // custom cat sequence. only cats are accepted, of course
 },
