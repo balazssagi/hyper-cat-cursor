@@ -1,6 +1,6 @@
 An extension for [Hyper](https://github.com/zeit/hyper) to replace the cursor with a cat emoji sequence. Why? Because I was bored.
 
-![Animated gif of a command line interface with a cat emoji animation as cursor](preview-1.gif)
+![Animated gif of a command line interface with a cat emoji animation as cursor](https://raw.githubusercontent.com/balazssagi/hyper-cat-cursor/master/preview-1.gif)
 
 # Installation
 
@@ -20,4 +20,4 @@ catCursor: {
 
 So you can easily create abominations like this:
 
-![Animated gif of a command line interface with a cat emoji animation as cursor](preview-2.gif)
+![Animated gif of a command line interface with a cat emoji animation as cursor](https://raw.githubusercontent.com/balazssagi/hyper-cat-cursor/master/preview-2.gif)
