@@ -1,3 +1,5 @@
+**Not compatible with Hyper 2.x 😿**
+
 An extension for [Hyper](https://github.com/zeit/hyper) to replace the cursor with a cat emoji sequence. Why? Because I was bored.
 
 ![Animated gif of a command line interface with a cat emoji animation as cursor](https://raw.githubusercontent.com/balazssagi/hyper-cat-cursor/master/preview-1.gif)
